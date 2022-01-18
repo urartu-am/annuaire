@@ -34,6 +34,15 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="menu_navigation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu_navigation.h" />
+		<Unit filename="structure.h" />
+		<Unit filename="switcher_fonction.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="switcher_fonction.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

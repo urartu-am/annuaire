@@ -3,14 +3,14 @@
 
 struct Client
 {
-    char nom[50];
-    char prenom[50];
-    char ville[50];
-    char metier[50]
-    int cp[5];
-    int numero[10];
+    char nom;
+    char prenom;
+    char ville;
+    char metier;
+    int cp;
+    int tel;
 };
-typedef Client client;
+typedef struct Client client;
 
 
 

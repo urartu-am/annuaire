@@ -21,6 +21,9 @@ void switcherFonction(int choix)
     case 5:
         // fonction "Filtrer"
         break;
+    case 0:
+        printf("======             A bientot            ======\n");
+        break;
     default:
         perror("Valeur saisie invalide.");
         break;
