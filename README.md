@@ -12,11 +12,13 @@
  _________________________________________________________________
 |			   Contenu :                              |
 |                                                                 |
-|* Afficher la liste des clients ayants des données manquantes    |
 |* Afficher la liste de tous les clients                          |
 |* Ajouter un client                                              |
 |* Supprimer un client                                            |
 |* Rechercher un client                                           |
-|* Filtrer                                                        |
-|* Trier                                                          |
+|* Filtrer                                                        |                                                 |
 |_________________________________________________________________|
+
+Sous-contenu de "Afficher la liste de tous les clients"
+	* Option de tri
+	* Option d'afficher la liste des clients ayants seulement des données manquantes

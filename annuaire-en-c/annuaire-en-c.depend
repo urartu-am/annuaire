@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1642541014 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_navigation.h"
+
+1642541067 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\menu_navigation.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_navigation.h"
+
+1642539744 c:\users\etulyon1\documents\annuaire\annuaire-en-c\menu_navigation.h
+
