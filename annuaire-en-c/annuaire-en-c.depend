@@ -1,13 +1,21 @@
 # depslib dependency file v1.0
-1642541014 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\main.c
+1642542025 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\main.c
 	<stdio.h>
 	<stdlib.h>
 	"menu_navigation.h"
+	"switcher_fonction.h"
 
-1642541067 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\menu_navigation.c
+1642541991 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\menu_navigation.c
 	<stdio.h>
 	<stdlib.h>
 	"menu_navigation.h"
 
 1642539744 c:\users\etulyon1\documents\annuaire\annuaire-en-c\menu_navigation.h
+
+1642541641 c:\users\etulyon1\documents\annuaire\annuaire-en-c\switcher_fonction.h
+
+1642541990 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\switcher_fonction.c
+	<stdio.h>
+	<stdlib.h>
+	"switcher_fonction.h"
 
