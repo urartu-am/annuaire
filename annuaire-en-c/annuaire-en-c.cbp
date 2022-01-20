@@ -38,6 +38,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="menu_navigation.h" />
+		<Unit filename="remplir_tableau.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="remplir_tableau.h" />
 		<Unit filename="structure.h" />
 		<Unit filename="switcher_fonction.c">
 			<Option compilerVar="CC" />
