@@ -8,3 +8,4 @@ paqueta,lucas,lyon,69200,0787450031,footballeur
 goldman,jean-jacques,rennes,35000,0687594643,chanteur
 deslaurier,antoine,rennes,35001,0798113528,informaticien
 grostas,guillaume,paris,93007,0711654580,chauffeur
+boudkith,amine,,,,etudiant

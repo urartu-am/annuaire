@@ -66,13 +66,7 @@ int remplirTableau(client *tab, int T)
 
     FILE *fp = fopen("clients.txt", "r");
 
-    if(fp == NULL)
-    {
-        printf("Le fichier clients.txt n'a pas pu être ouvert.\n");
-        return EXIT_FAILURE;
-    }
-
-    int sizebuffer=50+50+50+5+10+50, count=0;
+    int sizebuffer=50+50+50+50+50+50, count=0;
     char buffer[sizebuffer];
 
     while(fgets(buffer, sizebuffer, fp))
@@ -83,12 +77,6 @@ int remplirTableau(client *tab, int T)
         {
             fclose(fp);
         }
-    }
-
-    if(fclose(fp) == EOF)
-    {
-        printf("Erreur lors de la fermeture du flux.\n");
-        return EXIT_FAILURE;
     }
 
     return 0;

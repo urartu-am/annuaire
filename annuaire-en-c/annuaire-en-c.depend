@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1642677089 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\main.c
+1643197227 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\main.c
 	<stdio.h>
 	<stdlib.h>
 	"menu_navigation.h"
@@ -14,21 +14,33 @@
 
 1642539744 c:\users\etulyon1\documents\annuaire\annuaire-en-c\menu_navigation.h
 
-1642541641 c:\users\etulyon1\documents\annuaire\annuaire-en-c\switcher_fonction.h
+1642944145 c:\users\etulyon1\documents\annuaire\annuaire-en-c\switcher_fonction.h
+	"structure.h"
 
-1642675294 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\switcher_fonction.c
+1643196236 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\switcher_fonction.c
 	<stdio.h>
 	<stdlib.h>
 	"switcher_fonction.h"
+	"structure.h"
+	"afficher_clients.h"
 
-1642677125 c:\users\etulyon1\documents\annuaire\annuaire-en-c\structure.h
+1642944145 c:\users\etulyon1\documents\annuaire\annuaire-en-c\structure.h
 
-1642677290 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\remplir_tableau.c
+1643197350 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\remplir_tableau.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	"structure.h"
 	"remplir_tableau.h"
 
-1642676011 c:\users\etulyon1\documents\annuaire\annuaire-en-c\remplir_tableau.h
+1642678159 c:\users\etulyon1\documents\annuaire\annuaire-en-c\remplir_tableau.h
+
+1643196253 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\afficher_clients.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structure.h"
+	"afficher_clients.h"
+
+1642944264 c:\users\etulyon1\documents\annuaire\annuaire-en-c\afficher_clients.h
 

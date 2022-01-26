@@ -1,13 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "switcher_fonction.h"
+#include "structure.h"
+#include "afficher_clients.h"
 
-void switcherFonction(int choix)
+void switcherFonction(int choix, client *tab, int T)
 {
     switch(choix)
     {
     case 1:
-        // fonction "Afficher la liste de tous les clients"
+        afficherClients(tab, T);
         break;
     case 2:
         // fonction "Ajouter un client"
