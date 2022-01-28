@@ -4,6 +4,7 @@
 #include "structure.h"
 #include "afficher_clients.h"
 #include "ajouter_client.h"
+#include "supprimmer_client.h"
 
 void switcherFonction(int choix, client *tab, int T)
 {
@@ -16,7 +17,7 @@ void switcherFonction(int choix, client *tab, int T)
         ajouterClient();
         break;
     case 3:
-        // fonction "Supprimer un client"
+        supprimerClient(tab, T);
         break;
     case 4:
         // fonction "Rechercher un client"
@@ -28,7 +29,7 @@ void switcherFonction(int choix, client *tab, int T)
         printf("======             A bientot            ======\n");
         break;
     default:
-        perror("Valeur saisie invalide.");
+        perror(">> Valeur saisie invalide.\n");
         break;
     }
 }

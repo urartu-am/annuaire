@@ -8,6 +8,7 @@ void afficherClients(client *tab, int T)
 {
     int i;
 
+    // Boucle "for" qui affiche la liste de tous les clients
     for(i=0;i<T;i++)
     {
     printf("==============================\n");

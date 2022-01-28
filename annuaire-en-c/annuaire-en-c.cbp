@@ -51,6 +51,10 @@
 		</Unit>
 		<Unit filename="remplir_tableau.h" />
 		<Unit filename="structure.h" />
+		<Unit filename="supprimmer_client.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="supprimmer_client.h" />
 		<Unit filename="switcher_fonction.c">
 			<Option compilerVar="CC" />
 		</Unit>
