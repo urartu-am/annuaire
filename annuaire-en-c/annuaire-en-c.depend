@@ -17,12 +17,13 @@
 1642944145 c:\users\etulyon1\documents\annuaire\annuaire-en-c\switcher_fonction.h
 	"structure.h"
 
-1643196236 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\switcher_fonction.c
+1643326135 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\switcher_fonction.c
 	<stdio.h>
 	<stdlib.h>
 	"switcher_fonction.h"
 	"structure.h"
 	"afficher_clients.h"
+	"ajouter_client.h"
 
 1642944145 c:\users\etulyon1\documents\annuaire\annuaire-en-c\structure.h
 
@@ -43,4 +44,12 @@
 	"afficher_clients.h"
 
 1642944264 c:\users\etulyon1\documents\annuaire\annuaire-en-c\afficher_clients.h
+
+1643328097 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\ajouter_client.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ajouter_client.h"
+
+1643326127 c:\users\etulyon1\documents\annuaire\annuaire-en-c\ajouter_client.h
 

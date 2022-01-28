@@ -3,6 +3,7 @@
 #include "switcher_fonction.h"
 #include "structure.h"
 #include "afficher_clients.h"
+#include "ajouter_client.h"
 
 void switcherFonction(int choix, client *tab, int T)
 {
@@ -12,7 +13,7 @@ void switcherFonction(int choix, client *tab, int T)
         afficherClients(tab, T);
         break;
     case 2:
-        // fonction "Ajouter un client"
+        ajouterClient();
         break;
     case 3:
         // fonction "Supprimer un client"

@@ -35,6 +35,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="afficher_clients.h" />
+		<Unit filename="ajouter_client.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ajouter_client.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
