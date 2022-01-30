@@ -5,6 +5,7 @@
 #include "afficher_clients.h"
 #include "ajouter_client.h"
 #include "supprimmer_client.h"
+#include "recherche_client.h"
 
 void switcherFonction(int choix, client *tab, int T)
 {
@@ -20,10 +21,7 @@ void switcherFonction(int choix, client *tab, int T)
         supprimerClient(tab, T);
         break;
     case 4:
-        // fonction "Rechercher un client"
-        break;
-    case 5:
-        // fonction "Filtrer"
+        rechercheClient(tab, T);
         break;
     case 0:
         printf("======             A bientot            ======\n");

@@ -7,7 +7,7 @@
 	"structure.h"
 	"remplir_tableau.h"
 
-1642549288 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\menu_navigation.c
+1643544141 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\menu_navigation.c
 	<stdio.h>
 	<stdlib.h>
 	"menu_navigation.h"
@@ -17,7 +17,7 @@
 1642944145 c:\users\etulyon1\documents\annuaire\annuaire-en-c\switcher_fonction.h
 	"structure.h"
 
-1643402107 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\switcher_fonction.c
+1643545051 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\switcher_fonction.c
 	<stdio.h>
 	<stdlib.h>
 	"switcher_fonction.h"
@@ -25,6 +25,7 @@
 	"afficher_clients.h"
 	"ajouter_client.h"
 	"supprimmer_client.h"
+	"recherche_client.h"
 
 1642944145 c:\users\etulyon1\documents\annuaire\annuaire-en-c\structure.h
 
@@ -46,7 +47,7 @@
 
 1642944264 c:\users\etulyon1\documents\annuaire\annuaire-en-c\afficher_clients.h
 
-1643402385 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\ajouter_client.c
+1643402487 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\ajouter_client.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -63,4 +64,22 @@
 	"remplir_tableau.h"
 
 1643390625 c:\users\etulyon1\documents\annuaire\annuaire-en-c\supprimmer_client.h
+
+1643541990 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\tri_rapide.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tri_rapide.h"
+	"structure.h"
+
+1643542258 c:\users\etulyon1\documents\annuaire\annuaire-en-c\tri_rapide.h
+	"structure.h"
+
+1643545149 source:c:\users\etulyon1\documents\annuaire\annuaire-en-c\recherche_client.c
+	<stdio.h>
+	<stdlib.h>
+	"structure.h"
+	"recherche_client.h"
+
+1643544664 c:\users\etulyon1\documents\annuaire\annuaire-en-c\recherche_client.h
 

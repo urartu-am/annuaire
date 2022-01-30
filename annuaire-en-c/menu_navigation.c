@@ -11,10 +11,9 @@ int menuNavigation(void)
     printf("(2) - Ajouter un client\n");
     printf("(3) - Supprimer un client\n");
     printf("(4) - Rechercher un client\n");
-    printf("(5) - Filtrer\n");
     printf("(0) - Quitter\n");
 
-    while(choix<0 || choix>5)
+    while(choix<0 || choix>4)
     {
         printf("======               Choix              ======\n");
         scanf("%d", &choix);

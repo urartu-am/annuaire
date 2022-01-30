@@ -59,6 +59,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="switcher_fonction.h" />
+		<Unit filename="tri_fusion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tri_fusion.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
